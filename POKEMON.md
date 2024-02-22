@@ -90,8 +90,8 @@ Muk
 Shellder
 Cloyster
 Gastly
-Haunter
-Gengar
+Haunter ✔️
+Gengar ✔️
 Onix
 Drowzee
 Hypno
@@ -123,7 +123,7 @@ Mr. Mime
 Scyther
 Jynx
 Electabuzz
-Magmar
+Magmar ✔️
 Pinsir
 Tauros
 Magikarp ✔️
