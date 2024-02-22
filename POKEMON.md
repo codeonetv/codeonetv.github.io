@@ -147,5 +147,5 @@ Moltres
 Dratini
 Dragonair
 Dragonite ✔️
-Mewtwo
-Mew
+Mewtwo ✔️
+Mew ✔️
