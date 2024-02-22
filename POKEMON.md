@@ -4,9 +4,9 @@ Venusaur
 Charmander 
 Charmeleon
 Charizard ✔️
-Squirtle
-Wartortle
-Blastoise
+Squirtle ✔️
+Wartortle 
+Blastoise ✔️
 Caterpie
 Metapod
 Butterfree
