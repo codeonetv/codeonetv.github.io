@@ -36,8 +36,8 @@ Clefairy
 Clefable
 Vulpix
 Ninetales
-Jigglypuff
-Wigglytuff
+Jigglypuff ✔️
+Wigglytuff ✔️
 Zubat
 Golbat
 Oddish
