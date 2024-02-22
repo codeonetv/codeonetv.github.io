@@ -1,7 +1,7 @@
 Bulbasaur
 Ivysaur
 Venusaur
-Charmander ✔️
+Charmander 
 Charmeleon
 Charizard ✔️
 Squirtle
@@ -13,9 +13,9 @@ Butterfree
 Weedle
 Kakuna
 Beedrill
-Pidgey
-Pidgeotto
-Pidgeot
+Pidgey ✔️
+Pidgeotto ✔️
+Pidgeot ✔️
 Rattata
 Raticate
 Spearow
@@ -119,8 +119,7 @@ Goldeen
 Seaking
 Staryu
 Starmie
-Mr.
-Mime
+Mr. Mime
 Scyther
 Jynx
 Electabuzz
