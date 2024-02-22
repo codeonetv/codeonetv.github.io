@@ -12,7 +12,7 @@ Metapod
 Butterfree
 Weedle
 Kakuna
-Beedrill
+Beedrill ✔️
 Pidgey ✔️
 Pidgeotto ✔️
 Pidgeot ✔️
