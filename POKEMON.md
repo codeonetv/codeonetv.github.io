@@ -1,8 +1,8 @@
 Bulbasaur ✔️
 Ivysaur ✔️
 Venusaur ✔️
-Charmander 
-Charmeleon
+Charmander ✔️ 
+Charmeleon ✔️
 Charizard ✔️
 Squirtle ✔️
 Wartortle 
