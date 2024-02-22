@@ -24,8 +24,8 @@ Ekans
 Arbok
 Pikachu ✔️
 Raichu
-Sandshrew
-Sandslash
+Sandshrew ✔️
+Sandslash ✔️
 Nidoran♀
 Nidorina
 Nidoqueen
