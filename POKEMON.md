@@ -146,6 +146,6 @@ Zapdos
 Moltres
 Dratini
 Dragonair
-Dragonite
+Dragonite ✔️
 Mewtwo
 Mew
