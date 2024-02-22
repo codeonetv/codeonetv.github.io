@@ -1,6 +1,6 @@
-Bulbasaur
-Ivysaur
-Venusaur
+Bulbasaur ✔️
+Ivysaur ✔️
+Venusaur ✔️
 Charmander 
 Charmeleon
 Charizard ✔️
