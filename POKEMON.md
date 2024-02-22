@@ -23,7 +23,7 @@ Fearow
 Ekans
 Arbok
 Pikachu ✔️
-Raichu
+Raichu ✔️
 Sandshrew ✔️
 Sandslash ✔️
 Nidoran♀
@@ -126,8 +126,8 @@ Electabuzz
 Magmar
 Pinsir
 Tauros
-Magikarp
-Gyarados
+Magikarp ✔️
+Gyarados ✔️
 Lapras
 Ditto
 Eevee
