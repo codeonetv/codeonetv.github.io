@@ -49,8 +49,8 @@ Venonat
 Venomoth
 Diglett
 Dugtrio
-Meowth
-Persian
+Meowth ✔️
+Persian ✔️
 Psyduck
 Golduck
 Mankey
