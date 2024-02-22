@@ -74,8 +74,8 @@ Tentacruel
 Geodude
 Graveler
 Golem
-Ponyta
-Rapidash
+Ponyta ✔️
+Rapidash ✔️
 Slowpoke
 Slowbro
 Magnemite
